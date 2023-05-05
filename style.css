@@ -1,1 +1,54 @@
 
+.sfondo{
+   margin: 0px;
+  background-image: url(https://static.vecteezy.com/ti/vettori-gratis/p3/16829862-vettore-illustrazione-di-graffiti-sfondo-senza-soluzione-di-continuita-graffiti-arte-textures-nel-un-disegnato-a-mano-stile-vecchio-scuola-e-urbano-strada-arte-tema-per-maglietta-disegno-tessile-sfondo-sfondo-e-stampe-vettoriale.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+H1{
+  font-size: 20px;
+  font-family: Helvetica;
+  text-align: center;
+  color:black
+}
+p{
+  font-size: 17px;
+  font-family: Helvetica;
+  text-align: center;
+  color:black
+}
+.riquadro{
+  border: 1px solid orange; 
+  background-color:black;
+  color:white; 
+  padding: 20px;
+  border-radius: 15px;
+  margin: 60px;
+  text-align:center;
+}
+.box{
+  border:1px solid orange; 
+  background-color:black;
+  color:white; 
+  padding: 20px;
+  border-radius: 20px;
+  margin-top: 50px;
+  opacity:90%;
+}
+
+
+footer{
+  background-color: black;
+  text-align:center;
+  font-size:12px;
+  color: white;
+  border-top: 1px solid orange;
+  opacity:90%;
+  }
+riquadri-gialli{
+  border: 3px solid orange
+}
+b{
+  font-style:italic;
+}

@@ -12,8 +12,8 @@ margin:4;
 
 
 #prodotti{
-  height:600px;
-  width: 700px;
+  height:300px;
+  width: 400px;
   margin: 8px;
 }
 .riquadro{
@@ -28,7 +28,7 @@ margin:4;
   text-align:left;
   margin-bottom:40px;
    position: absolute;
-  top: 10%;
+  top: 50%;
   left: 60%;
   transform: translate(-50%, -50%);
 }

@@ -25,10 +25,10 @@ margin:4;
   
   border-radius: 15px;
   
-  position: absolute;
+  
   top: 50%;
   left: 60%;
-  transform: translate(-50%, -50%);
+  
 }
 .riquadro2{
   width: 600px;

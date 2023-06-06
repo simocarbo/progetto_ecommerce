@@ -22,12 +22,10 @@ margin:4;
   border: 5px solid orange; 
   background-color:black;
   color:white; 
-  padding: 20px;
+  
   border-radius: 15px;
-  margin-top: 60px;
-  text-align:left;
-  margin-bottom:40px;
-   position: absolute;
+  
+  position: absolute;
   top: 50%;
   left: 60%;
   transform: translate(-50%, -50%);

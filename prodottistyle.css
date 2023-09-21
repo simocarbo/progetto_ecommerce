@@ -1,12 +1,13 @@
-  .sfondo {
+.sfondo {
   margin: 0;
-  background-image: url(https://c.wallhere.com/photos/3b/7a/graffiti_pink_blue-1888701.jpg!d);
+  background-image: url(https://static.vecteezy.com/ti/vettori-gratis/p3/16829862-vettore-illustrazione-di-graffiti-sfondo-senza-soluzione-di-continuita-graffiti-arte-textures-nel-un-disegnato-a-mano-stile-vecchio-scuola-e-urbano-strada-arte-tema-per-maglietta-disegno-tessile-sfondo-sfondo-e-stampe-vettoriale.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .riquadro {
+  
   background-color: #000;
   color: #fff;
   border-radius: 10px;
@@ -15,8 +16,9 @@
   margin: 50px auto; 
   font-size: 25px;
   width: 200px;
-  border: 2px solid orange;
-  opacity: 0.9; 
+  border: 2px solid orange
+    
+    
 }
 
 body {
@@ -35,11 +37,11 @@ h1, p {
   color: white;
 }
 
-footer{
+footer {
   background-color: black;
-  text-align:center;
-  font-size:12px;
+  text-align: center;
+  font-size: 12px;
   color: white;
   border-top: 1px solid orange;
-  opacity:90%;
-  }
+  opacity: 0.9; 
+}

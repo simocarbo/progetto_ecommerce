@@ -18,8 +18,10 @@
   min-width: 200px; 
   border: 2px solid orange;
   opacity: 0.9; 
+  position:relative; 
+  z-index: 2 ; 
 }
-
+ 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
   font-size: 14px;

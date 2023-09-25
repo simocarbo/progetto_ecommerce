@@ -45,6 +45,7 @@ p {
   text-align: center;
   margin-bottom: 40px;
   opacity: 90%;
+  color: white;
 }
 
 .container {
@@ -67,17 +68,5 @@ footer {
 
 b {
   font-style: italic;
-  
-}
-td {   
-  color: white;
- 
-}
-tr {   
-  color: white;
- 
-}
-th {   
-  color: white;
- 
-}
+  }
+

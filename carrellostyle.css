@@ -68,7 +68,11 @@ b {
   font-style: italic;
   
 }
-td {   
+.td {   
+  color: white;
+ 
+}
+.tr {   
   color: white;
  
 }

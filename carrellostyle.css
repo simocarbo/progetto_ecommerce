@@ -69,4 +69,7 @@ footer {
 b {
   font-style: italic;
   }
+th, td {
+  color: white; 
+}
 

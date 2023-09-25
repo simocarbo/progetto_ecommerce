@@ -145,6 +145,17 @@
     Tel. / (+39) 0321.657181 / 628381 - Fax / (+39) 0321.65480 <br>
     <a href="#">i.m.w.bikers@gmail.com</a>
   </footer>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Aggiunge un event listener al pulsante di eliminazione
+    const deleteButtons = document.querySelectorAll('.btn-danger');
+    deleteButtons.forEach(function(button) {
+        button.addEventListener('click', function() {
+            // Rimuove la riga corrispondente al pulsante di eliminazione cliccato
+            const row = this.closest('tr');
+            row.remove();
+        });
+    });
+});
 
 </body>
 

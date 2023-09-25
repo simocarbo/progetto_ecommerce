@@ -35,7 +35,7 @@ p {
   color: white;
 }
 
-.riquadro * {
+.riquadro {
   border: 1px solid orange;
   background-color: black;
   color: white;
